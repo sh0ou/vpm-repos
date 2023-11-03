@@ -12,13 +12,7 @@
           "displayName": "KemoRadioEssentials",
           "description": "KemoRadio Gimmick Essentials.",
           "unity": "2019.4",
-          "documentationUrl": "https://sh0ou.github.io/KemoRadioEssentials/",
-          "changelogUrl": "https://sh0ou.github.io/KemoRadioEssentials/blob/master/CHANGELOG",
-          "licensesUrl": "https://github.com/sh0ou/KemoRadioEssentials/blob/master/LICENSE",
-          "license": "MIT",
-          "keywords": ["KemoRadi", "Tool"],
           "url" : "https://github.com/sh0ou/KemoRadioEssentials/releases/download/0.0.1/KemoRadioEssentials.zip",
-          "repo" : "https://sh0ou.github.io/vpm-repos/vpm.json",
         }
       }
     }
