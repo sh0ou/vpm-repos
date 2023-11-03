@@ -1,1 +1,27 @@
-
+{
+  "name": "sh0u",
+  "id": "io.github.sh0ou.vpm",
+  "author": "sh0u",
+  "url": "https://sh0ou.github.io/vpm-repos/vpm.json",
+  "packages": {
+    "jp.luworld.kemoradio-tools": {
+      "versions": {
+        "0.0.1": {
+          "name": "jp.luworld.kemoradio-tools",
+          "version": "0.0.1",
+          "displayName": "KemoRadioEssentials",
+          "description": "KemoRadio Gimmick Essentials.",
+          "unity": "2019.4",
+          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
+          "changelogUrl": "https://sh0ou.github.io/KemoRadioEssentials/blob/master/CHANGELOG",
+          "licensesUrl": "https://github.com/sh0ou/KemoRadioEssentials/blob/master/LICENSE",
+          "license": "MIT",
+          "keywords": ["KemoRadi", "Tool"],
+          "url" : "https://github.com/sh0ou/KemoRadioEssentials/releases/download/0.0.1/KemoRadioEssentials.zip",
+          "repo" : "https://sh0ou.github.io/vpm-repos/vpm.json",
+          "legacyFolders" : {}
+        }
+      }
+    }
+  }
+}
