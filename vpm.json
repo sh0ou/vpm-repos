@@ -16,5 +16,17 @@
         }
       }
     }
+    "jp.sh0uRoom.imageloader": {
+      "versions": {
+        "1.0.0": {
+          "name": "jp.sh0uRoom.imageloader",
+          "version": "1.0.0",
+          "displayName": "SimpleImageLoader",
+          "description": "Tools to load images from URLs.",
+          "unity": "2019.4",
+          "url" : "https://github.com/sh0ou/VRC-SimpleImageLoader/releases/download/1.0.0/VRCSIL.zip",
+        }
+      }
+    }
   }
 }
