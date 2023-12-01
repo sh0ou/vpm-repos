@@ -7,7 +7,7 @@
     "jp.sh0uRoom.imageloader": {
       "versions": {
         "1.0.0": {
-          "name": "jp.sh0uRoom.imageloader",
+          "name": "jp.sh0uroom.imageloader",
           "version": "1.0.0",
           "displayName": "SimpleImageLoader",
           "description": "Tools to load images from URLs.",
