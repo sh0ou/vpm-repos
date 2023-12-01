@@ -4,18 +4,6 @@
   "author": "sh0u",
   "url": "https://sh0ou.github.io/vpm-repos/vpm.json",
   "packages": {
-    "jp.luworld.kemoradio-tools": {
-      "versions": {
-        "0.0.1": {
-          "name": "jp.luworld.kemoradio-tools",
-          "version": "0.0.1",
-          "displayName": "KemoRadioEssentials",
-          "description": "KemoRadio Gimmick Essentials.",
-          "unity": "2019.4",
-          "url" : "https://github.com/sh0ou/KemoRadioEssentials/releases/download/0.0.1/KemoRadioEssentials.zip",
-        }
-      }
-    },
     "jp.sh0uRoom.imageloader": {
       "versions": {
         "1.0.0": {
