@@ -4,7 +4,7 @@
   "author": "sh0u",
   "url": "https://sh0ou.github.io/vpm-repos/vpm.json",
   "packages": {
-    "jp.sh0uRoom.imageloader": {
+    "jp.sh0uroom.imageloader": {
       "versions": {
         "1.0.0": {
           "name": "jp.sh0uroom.imageloader",
