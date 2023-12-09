@@ -6,6 +6,14 @@
   "packages": {
     "jp.sh0uroom.imageloader": {
       "versions": {
+          "1.0.1": {
+          "name": "jp.sh0uroom.imageloader",
+          "version": "1.0.1",
+          "displayName": "SimpleImageLoader",
+          "description": "Tools to load images from URLs.",
+          "unity": "2019.4",
+          "url" : "https://github.com/sh0ou/VRC-SimpleImageLoader/releases/download/1.0.1/VRCSIL.zip",
+        },
         "1.0.0": {
           "name": "jp.sh0uroom.imageloader",
           "version": "1.0.0",
