@@ -13,7 +13,7 @@
           "description": "Tools to load images from URLs.",
           "gitDependencies": {},
           "vpmDependencies": {
-            "com.vrchat.worlds": "3.4.1"
+            "com.vrchat.worlds": "^3.4.1"
           },
           "author": {
             "name": "sh0u",
@@ -34,7 +34,7 @@
           "description": "Tools to load images from URLs.",
           "gitDependencies": {},
           "vpmDependencies": {
-            "com.vrchat.worlds": "3.4.1"
+            "com.vrchat.worlds": "^3.4.1"
           },
           "author": {
             "name": "sh0u",
@@ -59,7 +59,7 @@
           "description": "A collection of gimmick tools that work only for specific users.",
           "gitDependencies": {},
           "vpmDependencies": {
-            "com.vrchat.worlds": "3.4.1"
+            "com.vrchat.worlds": "^3.4.1"
           },
           "author": {
             "name": "sh0u",
@@ -80,7 +80,7 @@
           "description": "A collection of gimmick tools that work only for specific users.",
           "gitDependencies": {},
           "vpmDependencies": {
-            "com.vrchat.worlds": "3.4.1"
+            "com.vrchat.worlds": "^3.4.1"
           },
           "author": {
             "name": "sh0u",
@@ -101,7 +101,7 @@
           "description": "A collection of gimmick tools that work only for specific users.",
           "gitDependencies": {},
           "vpmDependencies": {
-            "com.vrchat.worlds": "3.4.1"
+            "com.vrchat.worlds": "^3.4.1"
           },
           "author": {
             "name": "sh0u",
